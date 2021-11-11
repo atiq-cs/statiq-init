@@ -1,0 +1,5 @@
+Host: localhost
+LinksUseHttps: true
+SiteTitle: Title of the blog
+Description: "Cool blog to do cool stuff 1, cool stuff 2 and so on..."
+GenerateSearchIndex: true
