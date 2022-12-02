@@ -7,3 +7,7 @@ Tags:
 
 ## Intro
 This is example first post of statiq blog. Feel tree to update. :)
+
+> This is a blockquote. I like blockquotes.
+>
+> _&mdash; myself_
