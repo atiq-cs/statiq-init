@@ -1,9 +1,10 @@
 Host: localhost
 LinksUseHttps: true
 SiteTitle: Title of the blog
-Description: "Cool blog to do cool stuff 1, cool stuff 2 and so on..."
+SiteDescription: "Cool blog to do cool stuff 1, cool stuff 2 and so on..."
+Copyright: => @$"All articles © {DateTime.Now.Year} James D. Author"
 GenerateSearchIndex: true
 
 # Default image
 Image: https://cdn.pixabay.com/photo/2022/11/25/16/30/brown-hairstreak-7616422_960_720.jpg
-ImageAttribution: Photo by <a href="https://pixabay.com/users/erik_karits-15012370">Erik_Karits</a> on <a href="https://pixabay.com/photos/brown-hairstreak-butterfly-insect-7616422">Pixabay</a>
+ImageAttribution: Photo by [Erik_Karits](https://pixabay.com/users/erik_karits-15012370) on [Pixabay](https://pixabay.com/photos/brown-hairstreak-butterfly-insect-7616422)
