@@ -1,6 +1,6 @@
 Host: localhost
 LinksUseHttps: true
 SiteTitle: Title of the blog
-Description: "Cool blog to do cool stuff 1, cool stuff 2 and so on..."
+SiteDescription: "Cool blog to do cool stuff 1, cool stuff 2 and so on..."
 Copyright: => @$"All articles © {DateTime.Now.Year} James D. Author"
 GenerateSearchIndex: true

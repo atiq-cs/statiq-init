@@ -15,6 +15,19 @@ Update statiq package,
 
     dotnet add package Statiq.Web --prerelease
 
+Replace the deployment code with this for running locally,
+
+```csharp
+        public class Program
+        {
+            public static async Task<int> Main(string[] args) =>
+                await Bootstrapper
+                    .Factory
+                    .CreateWeb(args)
+                    .RunAsync();
+        }
+```
+
 To try a local run/preview, please run,
 
     dotnet run -- preview
