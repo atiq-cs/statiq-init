@@ -43,4 +43,4 @@ Then, please run,
 Surf your github pages URL to check it out!
 
 
-You are all set! Keep updating and have fun blogging :)
+You are all set. Keep updating and have fun blogging! :)
